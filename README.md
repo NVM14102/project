@@ -36,6 +36,7 @@ Ransomware is a type of malicious software that encrypts a victim’s files and 
 
 ## Usage
 
+
 1. Input a system log or file sample.
 2. The model will process and classify the input.
 3. If ransomware is detected, an alert will be triggered.
