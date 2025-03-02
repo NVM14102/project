@@ -66,8 +66,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-📧 Email: [your.email@example.com](mailto\:your.email@example.com)\
-🔗 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)\
+📧 Email: nvm14102@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/n-v-manikanta/
 
 
 ---
