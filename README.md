@@ -56,14 +56,6 @@ This project uses a combination of open-source ransomware datasets and synthetic
 - **False Positive Rate:** 3%
 - **False Negative Rate:** 2%
 
-## Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 📧 Email: nvm14102@gmail.com
