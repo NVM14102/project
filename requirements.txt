@@ -1,9 +1,0 @@
-
-numpy
-tensorflow
-keras
-scikit-learn
-pandas
-pymysql
-capstone
-tk
