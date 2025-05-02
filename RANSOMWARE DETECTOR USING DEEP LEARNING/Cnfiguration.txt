@@ -1,0 +1,15 @@
+
+{
+    "model_paths": {
+        "opcode_model": "models/weights-improvement-574-0.85.hdf5",
+        "grayscale_model": "models/weights-improvement-04-0.72.hdf5"
+    },
+    "input_directory": "user_selected_directory",
+    "output_log": "scan_results.log",
+    "thresholds": {
+        "benign_confidence": 0.8,
+        "malware_confidence": 0.8,
+        "ransomware_confidence": 0.8
+    }
+}
+
